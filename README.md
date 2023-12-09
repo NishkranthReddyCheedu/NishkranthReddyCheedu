@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NishkranthReddyCheedu
 - 👀 I’m interested in Solving Tricky Algorithms
-- 🌱 I’m currently learning Data science course
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently pursuing a Data science course
+- 💞️ I’m looking to collaborate on various DS platforms
+- 📫 How to reach me - ...
 
 <!---
 NishkranthReddyCheedu/NishkranthReddyCheedu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
